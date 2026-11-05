@@ -2,4 +2,8 @@
 
 PhD in Electrical Engineering working on computational electromagnetics and scientific software.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tiagovla&hide_title=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=tiagovla&hide_title=true&include_all_commits=true&theme=dark_github)
+<p align="center">
+  <a href="https://github-stats-extended.vercel.app/api?username=tiagovla&hide_title=true&include_all_commits=true&theme=dark_github">
+    <img src="https://github-stats-extended.vercel.app/api?username=tiagovla&hide_title=true&include_all_commits=true&theme=dark_github" alt="GitHub Stats">
+  </a>
+</p>
