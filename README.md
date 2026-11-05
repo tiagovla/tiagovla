@@ -1,6 +1,5 @@
-- 🔭 I’m currently working on Numerical Methods
-- 🌱 I’m currently learning about Quantum Mechanics and Photonic Devices
-- 👯 I’m looking to collaborate on Electrical Engineering projects
+# Hi, I'm Tiago
 
+PhD in Electrical Engineering working on computational electromagnetics and scientific software.
 
-[![tiagovla's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagovla&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=tiagovla&hide_title=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=tiagovla&hide_title=true&include_all_commits=true&theme=dark_github)
